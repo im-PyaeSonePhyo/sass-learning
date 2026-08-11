@@ -3,34 +3,33 @@
 Learning SASS/SCSS by following the **Net Ninja - SASS Tutorial (Build Your Own CSS Library)** series on YouTube.
 
 ## 📺 Course
-[SASS Tutorial - Net Ninja](https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
+[SASS Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
 
 ## 📚 Lessons
 
 | Branch | Lesson |
 |--------|--------|
-| [lesson-1](../../tree/lesson-1) | Introduction |
-| [lesson-2](../../tree/lesson-2) | Compiling SASS |
-| [lesson-3](../../tree/lesson-3) | Variables |
-| [lesson-4](../../tree/lesson-4) | Partials & @import |
-| [lesson-5](../../tree/lesson-5) | Project Structure |
-| [lesson-6](../../tree/lesson-6) | Nested Rules |
-| [lesson-7](../../tree/lesson-7) | Using Math |
-| [lesson-8](../../tree/lesson-8) | Maps |
-| [lesson-9](../../tree/lesson-9) | Loops |
-| [lesson-10](../../tree/lesson-10) | Conditionals (@if) |
-| [lesson-11](../../tree/lesson-11) | Parent Selectors |
-| [lesson-12](../../tree/lesson-12) | Mixins |
-| [lesson-13](../../tree/lesson-13) | Functions |
-| [lesson-14](../../tree/lesson-14) | Making Utility Classes |
-| [lesson-15](../../tree/lesson-15) | Media Queries |
-| [lesson-16](../../tree/lesson-16) | Making a Grid System (part 1) |
-| [lesson-17](../../tree/lesson-17) | Making a Grid System (part 2) |
-| [lesson-18](../../tree/lesson-18) | Using @extend |
-| [lesson-19](../../tree/lesson-19) | Using the CSS Library |
-| [lesson-20](../../tree/lesson-20) | Purging CSS |
-| [lesson-21](../../tree/lesson-21) | Customizing the Library |
-| [lesson-22](../../tree/lesson-22) | Extending the Library |
+| [lesson-1](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-1) | Compiling SASS |
+| [lesson-2](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-2) | Variables |
+| [lesson-3](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-3) | Partials & @import |
+| [lesson-4](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-4) | Project Structure |
+| [lesson-5](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-5) | Nested Rules |
+| [lesson-6](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-6) | Using Math |
+| [lesson-7](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-7) | Maps |
+| [lesson-8](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-8) | Loops |
+| [lesson-9](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-9) | Conditionals (@if) |
+| [lesson-10](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-10) | Parent Selectors |
+| [lesson-11](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-11) | Mixins |
+| [lesson-12](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-12) | Functions |
+| [lesson-13](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-13) | Making Utility Classes |
+| [lesson-14](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-14) | Media Queries |
+| [lesson-15](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-15) | Making a Grid System (part 1) |
+| [lesson-16](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-16) | Making a Grid System (part 2) |
+| [lesson-17](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-17) | Using @extend |
+| [lesson-18](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-18) | Using the CSS Library |
+| [lesson-19](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-19) | Purging CSS |
+| [lesson-20](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-20) | Customizing the Library |
+| [lesson-21](https://github.com/im-PyaeSonePhyo/sass-learning/tree/lesson-21) | Extending the Library |
 
 ## 🛠️ Tech Used
 - SASS / SCSS
