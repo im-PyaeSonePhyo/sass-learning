@@ -4,13 +4,13 @@ const purgecss = require('gulp-purgecss')
 
 function buildStyles() {
   return src('sass/**/*.scss')
-    .pipe(sass({ outputStyle: 'compressed' }))
+    .pipe(sass({ outputStyle: 'compressed' }).on('error', sass.logError))
     .pipe(purgecss({ content: ['*.html'] }))
     .pipe(dest('css'))
 }
 
 function watchTask() {
-  watch(['sass/**/*.scss'], buildStyles)
+  watch(['sass/**/*.scss', '*.html'], buildStyles)
 }
 
 exports.default = series(buildStyles, watchTask)
